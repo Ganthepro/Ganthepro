@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganthepro" alt="ganthepro" /></a> </p>
 
-- 🔭 I’m currently working on **many project.**
+- 🔭 I’m currently working on **many projects.**
 - 📫 How to reach me **ganzazamar@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
